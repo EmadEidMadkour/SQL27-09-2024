@@ -1,0 +1,6 @@
+CUST_CODE,CUST_NAME,CUST_CITY,WORKING_AREA,CUST_COUNTRY,GRADE,OPENING_AMT,RECEIVE_AMT,PAYMENT_AMT,OUTSTANDING_AMT,PHONE_NO,AGENT_CODE
+C00001,Micheal,"New York                           ","New York",USA,2,3000.00,5000.00,2000.00,6000.00,CCCCCCC,"A008  "
+C00025,Ravindran,"Bangalore                          ",Bangalore,India,2,5000.00,7000.00,4000.00,8000.00,AVAVAVA,"A011  "
+C00015,Stuart,"London                             ",London,UK,1,6000.00,8000.00,3000.00,11000.00,GFSGERS,"A003  "
+C00017,Srinivas,"Bangalore                          ",Bangalore,India,2,8000.00,4000.00,3000.00,9000.00,AAAAAAB,"A007  "
+C00009,Ramesh,"Mumbai                             ",Mumbai,India,3,8000.00,7000.00,3000.00,12000.00,"Phone No","A002  "

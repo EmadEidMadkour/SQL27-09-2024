@@ -1,0 +1,7 @@
+CUST_CODE,CUST_NAME,CUST_CITY,WORKING_AREA,CUST_COUNTRY,GRADE,OPENING_AMT,RECEIVE_AMT,PAYMENT_AMT,OUTSTANDING_AMT,PHONE_NO,AGENT_CODE
+C00015,Stuart,"London                             ",London,UK,1,6000.00,8000.00,3000.00,11000.00,GFSGERS,"A003  "
+C00005,Sasikant,"Mumbai                             ",Mumbai,India,1,7000.00,11000.00,7000.00,11000.00,147-25896312,"A002  "
+C00006,Shilton,"Torento                            ",Torento,Canada,1,10000.00,7000.00,6000.00,11000.00,DDDDDDD,"A004  "
+C00017,Srinivas,"Bangalore                          ",Bangalore,India,2,8000.00,4000.00,3000.00,9000.00,AAAAAAB,"A007  "
+C00012,Steven,"San Jose                           ","San Jose",USA,1,5000.00,7000.00,9000.00,3000.00,KRFYGJK,"A012  "
+C00011,Sundariya,"Chennai                            ",Chennai,India,3,7000.00,11000.00,7000.00,11000.00,PPHGRTS,"A010  "
